@@ -1,4 +1,4 @@
-log4cplus12 (1.2.3.383~xenial) xenial; urgency=high
+log4cplus12 (1.2.3.384~xenial) xenial; urgency=high
 
   * Bump version to get a recompile on launchpad.
 
