@@ -1,5 +1,11 @@
 log4cplus12 (1.2.3.383~xenial) xenial; urgency=high
 
+  * Bump version to get a recompile on launchpad.
+
+ -- Alexis Wilke <alexis@m2osw.com>  Fri,  9 Aug 2019 16:07:38 -0800
+
+log4cplus12 (1.2.3.383~xenial) xenial; urgency=high
+
   * Added a PROJECT_BRIEF description.
   * Added in=C++ to the MAPPING_EXTENSION.
   * Updated the doxy file to 1.8.11.
