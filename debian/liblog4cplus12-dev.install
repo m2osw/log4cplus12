@@ -1,2 +1,2 @@
 usr/include/*
-usr/lib/x86_64-linux-gnu/lib*.so
+usr/lib/*-linux-gnu/lib*.so

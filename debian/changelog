@@ -1,3 +1,9 @@
+log4cplus12 (1.2.3.385~xenial) xenial; urgency=high
+
+  * Updated the .install to allow for different architectures.
+
+ -- Alexis Wilke <alexis@m2osw.com>  Thu, 07 Jan 2021 17:19:18 -0800
+
 log4cplus12 (1.2.3.384~xenial) xenial; urgency=high
 
   * Bump version to get a recompile on launchpad.
