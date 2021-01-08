@@ -113,7 +113,7 @@ else ()
   set_target_properties (${log4cplus} PROPERTIES
     VERSION "${log4cplus_version_major}.${log4cplus_version_minor}.${log4cplus_version_patch}"
     SOVERSION "${log4cplus_soversion}"
-    COMPILE_FLAGS "-DINSIDE_LOG4CPLUS")
+    COMPILE_FLAGS "-DINSIDE_LOG4CPLUS -Wno-deprecated-declarations")
 endif ()
 
 if (WIN32)
