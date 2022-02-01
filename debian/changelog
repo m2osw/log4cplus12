@@ -1,3 +1,9 @@
+log4cplus12 (1.2.3.390~bionic) bionic; urgency=high
+
+  * Bumped build version to rebuild on Launchpad.
+
+ -- Alexis Wilke <alexis@m2osw.com>  Mon, 31 Jan 2022 17:28:45 -0800
+
 log4cplus12 (1.2.3.389~bionic) bionic; urgency=high
 
   * Bumped build version to rebuild on Launchpad.
